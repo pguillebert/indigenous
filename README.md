@@ -17,6 +17,11 @@ no need to manage JVM's java.library.path.
 Most of the core is borrowed from gaverhae/naughtmq, by Gary Verhaegen.
 I kept attribution of many functions to Gary in the comments of the code.
 
+## Version
+
+        [indigenous "0.1.0"]
+
+        (require [indigenous.core :as indi])
 
 ## Usage
 
