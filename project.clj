@@ -1,4 +1,4 @@
-(defproject indigenous "0.1.0-SNAPSHOT"
+(defproject indigenous "0.1.0"
   :description "A Clojure library to manage native libraries in a sane way."
   :url "https://github.com/pguillebert/indigenous"
   :scm {:name "git"
@@ -16,5 +16,5 @@
   :license {:name "Eclipse Public License"
             :url "http://www.eclipse.org/legal/epl-v10.html"}
   :dependencies [[org.clojure/clojure "1.6.0"]
-                 [org.clojure/tools.logging "0.3.0"]]
+                 [org.clojure/tools.logging "0.3.1"]]
   :java-source-paths ["src"])
